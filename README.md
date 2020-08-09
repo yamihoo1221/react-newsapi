@@ -70,3 +70,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 # news-api
 # news-api
 # react-newsapi
+# react-newsapis
